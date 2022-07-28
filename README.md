@@ -24,3 +24,5 @@ SQL Optimization Plan - Databricks has an SQL Execution plan so you can view and
 **Common Table Expressions (CTE)** are supported in Spark SQL
 
 **Table Information DESCRIBE-->** You can get extended table information with "DESCRIBE TABLE EXTENDED mytabledata"
+
+**MORE WORK REQUIRED ON LAB 5.3** You need to understand CTE and access this information like 5.3 exercise 2) Access to STRUCT & ARRAY

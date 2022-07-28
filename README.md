@@ -12,3 +12,5 @@ Velocity
 Volume
 
 Veracity
+
+SQL Optimization Plan - Databricks has an SQL Execution plan so you can view and optimize query's.  

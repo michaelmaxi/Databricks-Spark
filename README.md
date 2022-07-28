@@ -20,3 +20,5 @@ SQL Optimization Plan - Databricks has an SQL Execution plan so you can view and
 **Partitions-->** When using large datasets and tables we can partition a table by one of it's attributes or columns.  By storing data in partitions that are regulary searched on and filtered on these attributes can speed up the process of retrieval.  Example 
 
 **Data File Types-->** Now we all have used the *.csv file but how about *.json and the Databricks Spark "*.parquet" type format?
+
+**Common Table Expressions (CTE)** are supported in Spark SQL

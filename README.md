@@ -22,3 +22,5 @@ SQL Optimization Plan - Databricks has an SQL Execution plan so you can view and
 **Data File Types-->** Now we all have used the *.csv file but how about *.json and the Databricks Spark "*.parquet" type format?
 
 **Common Table Expressions (CTE)** are supported in Spark SQL
+
+**Table Information DESCRIBE-->** You can get extended table information with "DESCRIBE TABLE EXTENDED mytabledata"

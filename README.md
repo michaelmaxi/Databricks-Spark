@@ -17,4 +17,4 @@ SQL Optimization Plan - Databricks has an SQL Execution plan so you can view and
 
 **Patitions-->** and how they can speed up query's
 
-**Memory-->**
+**Cache-->** You can cache your table or view into memory for faster retrieval on larger datasets.  Example CACHE TABLE MyTableName;

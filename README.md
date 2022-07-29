@@ -21,10 +21,10 @@ SQL Optimization Plan - Databricks has an SQL Execution plan so you can view and
 
 **Data File Types-->** Now we all have used the *.csv file but how about *.json and the Databricks Spark "*.parquet" type format?
 
-**Common Table Expressions (CTE)** are supported in Spark SQL
+**Common Table Expressions (CTE)** are supported in Spark SQL [Click to learn more](https://github.com/michaelmaxi/BigQuerySQL)
 
 **Table Information DESCRIBE-->** You can get extended table information with "DESCRIBE TABLE EXTENDED mytabledata"
 
-**MORE WORK REQUIRED ON LAB 5.3** You need to understand CTE and access this information like 5.3 exercise 2) Access to STRUCT & ARRAY
+**ARRAY and STRUCT** You can find out more of me using these by clicking my [Google Bigquery](https://github.com/michaelmaxi/BigQuerySQL)
 
 **Sample Data** ADD LIMIT 10 OR TABLESAMPLE (10 ROWS) to the end of SQL Query

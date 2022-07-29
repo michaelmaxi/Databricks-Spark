@@ -28,3 +28,6 @@ SQL Optimization Plan - Databricks has an SQL Execution plan so you can view and
 **ARRAY and STRUCT** You can find out more of me using these by clicking my [Google Bigquery](https://github.com/michaelmaxi/BigQuerySQL)
 
 **Sample Data** ADD LIMIT 10 OR TABLESAMPLE (10 ROWS) to the end of SQL Query
+
+**Databricks** Allows for you to use the CREATE WIDGET DROPDOWN in a sql command.  You can then use this drop down to gather user input and run a sql command based on input.
+

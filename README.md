@@ -1,6 +1,7 @@
 # Databricks-Spark
 My Journey with Big Data and Databricks.  
-For my Certificate Awarded by Databricks & Apache Spark [Click Here](https://github.com/michaelmaxi/Databricks-Spark/blob/main/Databricks%20Apache%20Spark%20RPSL9QLEDPAV.pdf)
+
+Certificate Awarded by Databricks & Apache Spark [Click Here](https://github.com/michaelmaxi/Databricks-Spark/blob/main/Databricks%20Apache%20Spark%20RPSL9QLEDPAV.pdf)
 
 Why use Databricks? It allows you to process large amounts of data from multiple sources and locations.  Unites your Data Analyst team allowing them to utilize the skills they already know.  Databricks is enabled for SQL, R, Python or Scala allowing your team to access using their own skill set and the team to work in a collaborative way.  
 

@@ -6,6 +6,7 @@ Why use Databricks? It allows you to process large amounts of data from multiple
 In this course we spend alot of time using SQL in Spark.  SparkSQL Notebooks.  
 click for --> [Lessons](https://files.training.databricks.com/courses/moocs/SQLDA/Lessons.dbc)
 
+Need to consider the Data characteristics --> 
 
 Volume
 
@@ -15,6 +16,9 @@ Variety
 
 Veracity
 
+It started with Data Warehouse's including structured data and proprietry systems.  Then came along the Data Lake which allowed for unstructured data and open systems. Now the **Lakehouse** is emerging as a best of both worlds combing the 2.
+
+**Concepts**
 SQL Optimization Plan - Databricks has an SQL Execution plan so you can view and optimize query's.  
 
 **Cache-->** You can cache your table into memory for faster retrieval on larger datasets.  Example CACHE TABLE MyTableName;

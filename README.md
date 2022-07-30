@@ -16,7 +16,7 @@ Variety
 
 Veracity
 
-It started with Data Warehouse's including structured data and proprietry systems.  Then came along the Data Lake which allowed for unstructured data and open systems. Now the **Lakehouse** is emerging as a best of both worlds combing the 2.
+It started with Data Warehouse's including structured data and proprietry systems.  Then came along the Data Lake which allowed for unstructured data and open systems. Now the **Lakehouse** is emerging as a best of both worlds joining the 2.
 
 **Concepts**
 SQL Optimization Plan - Databricks has an SQL Execution plan so you can view and optimize query's.  

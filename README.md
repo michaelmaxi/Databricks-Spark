@@ -8,15 +8,7 @@ Why use Databricks? It allows you to process large amounts of data from multiple
 In this course we spend alot of time using SQL in Spark.  SparkSQL Notebooks.  
 click for --> [Lessons](https://files.training.databricks.com/courses/moocs/SQLDA/Lessons.dbc)
 
-Need to consider the Data characteristics --> 
-
-Volume
-
-Velocity
-
-Variety
-
-Veracity
+When working with data you need to consider the Data characteristics -> Volume -> Velocity -> Variety -> Veracity
 
 It started with Data Warehouse's including structured data and proprietry systems.  Then came along the Data Lake which allowed for unstructured data and open systems. Now the **Lakehouse** is emerging as a best of both worlds joining the 2.  Looking to the future with a data single source of truth.
 
